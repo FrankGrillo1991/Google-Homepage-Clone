@@ -138,4 +138,9 @@ footer {
     margin-bottom: 0;
 }
 
+.bottomone li a {
+    color: #666;
+    letter-spacing: 0.2px;
+}
+
 
