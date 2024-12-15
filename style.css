@@ -143,4 +143,9 @@ footer {
     letter-spacing: 0.2px;
 }
 
+.bottomone li {
+    margin-right: 27px;
+    list-style-type: none;
+}
+
 
