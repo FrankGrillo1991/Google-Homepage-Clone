@@ -26,3 +26,9 @@ body {
     border: 1px solid #b9b9b9;
     border-top-color: #a0a0a0;
 }
+
+.search:focus {
+    outline: none;
+    border: 1px solid #4d90fe;
+}
+
