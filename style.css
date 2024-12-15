@@ -152,4 +152,9 @@ footer {
     float: left;
 }
 
+.rightone {
+    float: right;
+    padding-right: 0;
+}
+
 
