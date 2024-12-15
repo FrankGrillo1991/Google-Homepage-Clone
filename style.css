@@ -78,3 +78,7 @@ body {
     text-decoration: underline;
 }
 
+.nav-pills {
+    margin: 15px 5px;
+}
+
