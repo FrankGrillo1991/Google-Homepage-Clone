@@ -115,4 +115,9 @@ body {
     opacity: .75;
 }
 
+.nav > li > a > img:hover {
+    opacity: 1;
+    cursor: default;
+}
+
 
