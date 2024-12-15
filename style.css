@@ -56,3 +56,8 @@ body {
     color: #222;
     cursor: default;
 }
+
+.left {
+    float: left;
+}
+
