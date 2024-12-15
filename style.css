@@ -22,3 +22,7 @@ body {
     background-size: 1.5em;
 }
 
+.search:hover {
+    border: 1px solid #b9b9b9;
+    border-top-color: #a0a0a0;
+}
