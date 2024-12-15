@@ -111,4 +111,8 @@ body {
     cursor: default;
 }
 
+.nav > li > a > img {
+    opacity: .75;
+}
+
 
