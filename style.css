@@ -132,4 +132,10 @@ footer {
     bottom: 0;
 }
 
+.bottomone {
+    display: inline-block;
+    padding: 0 10px;
+    margin-bottom: 0;
+}
+
 
