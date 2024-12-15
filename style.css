@@ -102,3 +102,13 @@ body {
     font-size: 13px;
 }
 
+.btn.focus,
+.btn:focus,
+.btn:hover,
+.btn:visited,
+.btn:active {
+    color: white;
+    cursor: default;
+}
+
+
