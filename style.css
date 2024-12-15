@@ -71,3 +71,10 @@ body {
     opacity: 1;
 }
 
+.nav > li > a:hover,
+.nav > li > a:visited,
+.nav > li > a:focus {
+    background-color: white;
+    text-decoration: underline;
+}
+
