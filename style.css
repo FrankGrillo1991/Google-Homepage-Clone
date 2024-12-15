@@ -91,3 +91,14 @@ body {
     margin-top: 4.5px;
 }
 
+.btn,
+.btn:active {
+    color: white;
+    font-weight: 700;
+    background: -webkit-linear-gradient(top, #4387fd, #4683ea);
+    padding: 4px 10.5px;
+    border: 1px solid #4285f4;
+    border-radius: 2px;
+    font-size: 13px;
+}
+
