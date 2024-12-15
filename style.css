@@ -120,4 +120,16 @@ body {
     cursor: default;
 }
 
+footer {
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    max-height: 40px;
+    width: 100%;
+    padding: 15px 20px 5px 10px;
+    margin-bottom: 0;
+    clear: both;
+    position: absolute;
+    bottom: 0;
+}
+
 
