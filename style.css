@@ -67,3 +67,7 @@ body {
     opacity: .75;
 }
 
+.nav > li .colorfix {
+    opacity: 1;
+}
+
